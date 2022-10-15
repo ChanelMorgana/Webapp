@@ -14,5 +14,5 @@ There are the exact steps that I took
 
 That’s all the basic setup to run the front-end code:
 
-1. `npm run vite`
+1. `npm run dev`
 2. Then just open up the local URL in the browser and you’re all set. All that’s left to do is edit the code, make updates to it and navigate to the URL again to see the updates.
